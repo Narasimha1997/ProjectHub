@@ -1,0 +1,72 @@
+.div_head{
+   position: fixed;
+  background-color: #3b5999;
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 20px;
+ color: #ffffff;
+  padding-left: 50px;
+}
+  .page-footer{
+    background-color: #3b5999
+  }
+  .img{
+    max-width: 100%;
+    max-width: 100%;
+  }
+  .mid{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url("http://www.cuelogic.com/blog/wp-content/uploads/2016/05/Best-IoT-Prog-Languages-BLOG-IMAGE4.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 250px;
+  }
+  .flow-text{
+    color: #3b5999;
+  }
+  .div2{
+    background: #3e2723;
+  }
+
+  .text_p{
+    text-align: center;
+    padding-bottom: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+  }
+  .signup{
+    text-align: right;
+    padding-right: 20px;
+  }
+  .waves-effect{
+    color: #ffffff;
+    background: #bd0810;
+  }
+  .div2{
+    background:#37474F;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .content_div2{
+    color: #ffffff;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+  }
+  .tx1{
+    color: #ffffff;
+  }
+  .img_div2{
+    text-align: center;
+  }
+  .cv3{
+    background:#241c1c;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  

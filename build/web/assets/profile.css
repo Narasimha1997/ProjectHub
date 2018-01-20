@@ -1,0 +1,47 @@
+.body_profile{
+  background-image: url('http://www.websitedzine.com/images/background_1.jpg');
+  color: #ffffff;
+  text-align: center;
+}
+.div_head{
+  background-color: #3b5999;
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+  padding-left: 50px;
+}
+
+.profile_card{
+  padding-left: 10px;
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 80%;
+  background :#6a1b9a ;
+  padding-bottom: 20px;
+}
+.profile_pic{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.profile_data{
+  border-left: thin solid #ff0000;
+  padding-top: 20px;
+  text-align: left;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-color: #ffffff;
+}
+.prjects_head{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.card2{
+  margin-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
